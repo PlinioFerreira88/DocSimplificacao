@@ -75,9 +75,38 @@ Além do acesso é possível definir as seguintes permissões para cada dashboar
     <img src="./_assets/img/permissoes_grupos_permissoes.png" alt='missing' />
     <figcaption>Permissões para Sistemas, Dashboards e Processos</figcaption>
 </figure>
-</p>
 
 
 ## Usuários
+
+Cadastro destinado ao cadastramento dos usuários da Plataforma SimplificAção e do *app* Smart.
+
+Recomenda-se a criação de usuários nomeados e evitar, sempre que possível, a utilização de usuários genéricos ou que não identifique a pessoa relacionada ao usuário.
+
+<figure>
+    <img src="./_assets/img/permissoes_usuarios_inclusao.png" alt='missing' />
+    <figcaption>Inclusão novo usuário</figcaption>
+</figure>
+
+<figure>
+    <img src="./_assets/img/permissoes_usuarios_grupos.png" alt='missing' />
+    <figcaption>Grupos do usuário</figcaption>
+</figure>
+
+<figure>
+    <img src="./_assets/img/permissoes_usuarios_integracoes.png" alt='missing' />
+    <figcaption>Integrações do usuário</figcaption>
+</figure>
+
+<figure>
+    <img src="./_assets/img/permissoes_usuarios_permissoes.png" alt='missing' />
+    <figcaption>Permissões do usuário</figcaption>
+</figure>
+
+<figure>
+    <img src="./_assets/img/permissoes_usuarios_token.png" alt='missing' />
+    <figcaption>Token do usuário</figcaption>
+</figure>
+
 
 ## Integrações

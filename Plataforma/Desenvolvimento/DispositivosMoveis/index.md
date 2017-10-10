@@ -49,6 +49,14 @@ Todas as funcionaidades possíveis para um sistema são definidas através deste
 <tr><td>Tipo de Menu</td><td>Define o tipo do menu a ser utilizado.</td></tr>
 </table>
 
+!> O tipo de menu selecionado define as guias que serão habilitadas para preenchimento. 
+
+> Matriz Tipos de Menu x Guias de Dados
+
+<p align="center">
+    <img alt="simplificacao" src="./_assets/img/desenvolvimento_dispositivosmoveis_menus_matriz.svg">
+  </a>
+</p>
 
 ## Sistemas
 

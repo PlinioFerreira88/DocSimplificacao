@@ -1,18 +1,10 @@
 > Plataforma &#10145; Configurações
 
-Neste menu você encontra algumas configurações para a utilização da plataforma SimplificAção. 
-
-`Configurações` das conexões a diversos Bancos de Dados
-
-`Configurações` de envio de e-mails e SMS a partir da plataforma SimplificAção. 
-
-`Configurações` de acesso ao SimplifiAção Smart.
-
 
 ## Conectores
 
 A plataforma Mobilidade permite a conexão com diversos sistemas de gerenciamento de banco de dados ou com diversas instâncias do mesmo banco de dados.
-Se um cliente possuir seu ERP baseado num banco de dados `Oracle` e um sistema especialista baseado em `SQL Server`, é possível criar conexões para os dois bancos e utilizar as duas fontes de dados.
+Se um cliente possuir seu sistema de gestão baseado em um banco de dados Oracle&reg; e um sistema especialista baseado em SQL Server&reg;, é possível criar conexões para os dois bancos e utilizar as duas fontes de dados.
 
 > Campos disponíveis
 
@@ -28,7 +20,7 @@ Se um cliente possuir seu ERP baseado num banco de dados `Oracle` e um sistema e
 <tr><td>Database</td><td>Identificação do Database ou Serviço.</td></tr>
 <tr><td>Usuário</td><td>Usuário para conexão com o banco de dados.</td></tr>
 <tr><td>Senha</td><td>Senha para conexão com o banco de dados.</td></tr>
-<tr><td>Botão Testar Conexão</td><td>Validar se os dados informados são satisfatórios para conexão com o banco dados.</td></tr>
+<tr><td>Botão `Testar Conexão`</td><td>Validar se os dados informados são satisfatórios para conexão com o banco dados.</td></tr>
 </table>
 
 <figure>
@@ -39,7 +31,7 @@ Se um cliente possuir seu ERP baseado num banco de dados `Oracle` e um sistema e
 
 ## Provedores
 
-Permite cadastrar os provedores do serviço de Mensageria. Neste cadastro serão informados as configurações de contas de e-mail ou serviços de SMS para envio das mensagens geradas nas rotinas de Alerta e Ações em `Dispositivos Móveis` e `Auditorias`.
+Permite cadastrar os provedores do serviço de Mensageria. Neste cadastro serão informados as configurações de contas de e-mail ou serviços de SMS para envio das mensagens geradas nas rotinas de Alerta e Ações em Dispositivos Móveis e [Auditorias](/Plataforma/Desenvolvimento/).
 
 > Campos disponíveis
 
@@ -162,7 +154,7 @@ Na guia servidor permite informar os parâmetros necessários para o acesso do `
 
 >Configurações Locais
 
-Na guia configurações locais permite informar os parâmetros de definições locais para o `SimplificaAção Smart`.
+Na guia configurações locais permite informar os parâmetros de definições locais para o `SimplificAção Smart`.
 
 > Campos disponíveis
 

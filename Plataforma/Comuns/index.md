@@ -1,7 +1,5 @@
 > Plataforma &#10145; Comuns
 
-Neste menu você encontra configurações comuns para Dashboards, Dispositivos Móveis, Auditorias e Processos. 
-
 ## Agendamentos
 
 Através dos agendamentos é possível criar e definir períodos para execução das auditorias.
@@ -85,13 +83,14 @@ Na guia objetos será indicado quais ações serão utilizadas através de Queri
     <figcaption>Ação objetos</figcaption>
 </figure>
 
-> Workflow
+> Workflow 
 
 Na guia workflow podem ser definidas algumas pre-defenições para o comportamento da ação.
 
-> Campos disponíveis
-
 <table>
+<thead class="thead-top">
+<td colspan="2"> Campos Disponíveis  </td>    
+</thead>    
 <thead>
 <td>Campo</td>
 <td>Descrição</td>
@@ -146,13 +145,13 @@ Na guia atividades
 
 Os Formulários são um poderoso componente para utilização em sistemas para dispositivos móveis para entrada de dados seja num nível de menu ou numa ação. Através dos formulários é possível criar:
 
-`Telas para apontamentos de dados.`
+* Telas para apontamentos de dados.
 
-`Definir entrada de valores variáveis para sistemas`
+* Definir entrada de valores variáveis para sistemas
 
-`Criar ações com entradas de dados mais aprimoradas`
+* Criar ações com entradas de dados mais aprimoradas
 
-`Realizar coleta de dados offline*`
+* Realizar coleta de dados offline*
 
 !> Offline
 

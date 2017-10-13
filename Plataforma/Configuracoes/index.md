@@ -31,7 +31,7 @@ Se um cliente possuir seu sistema de gestão baseado em um banco de dados Oracle
 
 ## Provedores
 
-Permite cadastrar os provedores do serviço de Mensageria. Neste cadastro serão informados as configurações de contas de e-mail ou serviços de SMS para envio das mensagens geradas nas rotinas de Alerta e Ações em Dispositivos Móveis e [Auditorias](/Plataforma/Desenvolvimento/).
+Permite cadastrar os provedores do serviço de Mensageria. Neste cadastro serão informados as configurações de contas de e-mail ou serviços de SMS para envio das mensagens geradas nas rotinas de Alerta e Ações em Dispositivos Móveis e [Auditorias](/Plataforma/Desenvolvimento/Auditorias/index.md).
 
 > Campos disponíveis
 

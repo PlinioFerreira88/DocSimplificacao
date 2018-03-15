@@ -1,6 +1,6 @@
 > Plataforma &#10145; Dispositivos Móveis
 
-## Agrupamentos
+## Agrupamentos Teste
 
 Agrupamentos são uma opção para organizar os diversos sistemas em grupos para uso nos dispositivos móveis.
 
